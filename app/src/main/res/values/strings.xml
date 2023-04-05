@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExamTime</string>
+    <string name="title_resources">Resource</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="positive_exam_message">Quit</string>
+    <string name="exit_home_message">Quit quiz? Progress will not be saved!</string>
+    <string name="negative_exam_message">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_message">Post your scores to database and save locally? Scores will only be used for statistics purposes. </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
